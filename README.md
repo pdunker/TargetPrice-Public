@@ -28,3 +28,28 @@ Track your favorite stocks in real-time and set custom price alerts so you never
   </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+  <td>
+    <img src="images/login-l.png" height="450">
+  </td>
+  <td>
+    <img src="images/stocks-l.png" height="450">
+  </td>
+  <td>
+    <img src="images/stock-view-l.png" height="450">
+  </td>
+  </tr>
+  <tr>
+  <td>
+    <img src="images/alarm-creation-l.png" height="450">
+  </td>
+  <td>
+    <img src="images/popup-l.png" height="450">
+  </td>
+  <td>
+    <img src="images/alarms-view-l.png" height="450">
+  </td>
+  </tr>
+</table>
